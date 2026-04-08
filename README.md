@@ -1,5 +1,3 @@
-# valorant-instalock
-
 ## CASTELLANO
 
 **Junior - Valorant Instalock** es una herramienta ligera y profesional diseñada para asegurar tu agente favorito en VALORANT de forma automática y ultra rápida. Olvídate de perder tu main por falta de reflejos.
