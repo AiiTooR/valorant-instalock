@@ -1,6 +1,6 @@
 # valorant-instalock
 
---- ES
+## CASTELLANO
 
 **Junior - Valorant Instalock** es una herramienta ligera y profesional diseñada para asegurar tu agente favorito en VALORANT de forma automática y ultra rápida. Olvídate de perder tu main por falta de reflejos.
 
@@ -12,11 +12,12 @@
 * ♻️ **Auto-Reset:** El script se reactiva solo al terminar cada partida.
 * 🎨 **Interfaz Estética:** Dashboard minimalista basado en consola.
 
--- EN
+
+## ENGLISH
 
 **Junior Instalock** is a lightweight, professional tool designed to secure your favorite agent in VALORANT automatically and ultra-fast. Stop losing your main due to slow reaction times.
 
----
+
 
 ## 🚀 Key Features
 
